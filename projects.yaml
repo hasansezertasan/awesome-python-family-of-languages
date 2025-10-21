@@ -28,3 +28,6 @@ projects:
   - name: hy
     github_id: hylang/hy
     category: "supersets"
+  - name: stackless
+    github_id: stackless-dev/stackless
+    category: "supersets"
