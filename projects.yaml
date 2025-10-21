@@ -25,3 +25,6 @@ projects:
   - name: cython
     github_id: cython/cython
     category: "supersets"
+  - name: hy
+    github_id: hylang/hy
+    category: "supersets"
