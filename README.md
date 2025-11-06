@@ -60,9 +60,9 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 _Best-of lists about supersets of python programming language._
 
-<details><summary><b><a href="https://github.com/cython/cython">cython</a></b> (🥇43 ·  ⭐ 10K · ➕) - The most widely used Python to C compiler. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/cython/cython">cython</a></b> (🥇43 ·  ⭐ 10K) - The most widely used Python to C compiler. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cython/cython) (👨‍💻 570 · 🔀 1.6K · 📥 520K · 📦 210K · 📋 4.1K - 32% open · ⏱️ 21.10.2025):
+- [GitHub](https://github.com/cython/cython) (👨‍💻 570 · 🔀 1.6K · 📥 400K · 📦 210K · 📋 4.1K - 31% open · ⏱️ 05.11.2025):
 
 	```
 	git clone https://github.com/cython/cython
@@ -70,7 +70,7 @@ _Best-of lists about supersets of python programming language._
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/hylang/hy">hy</a></b> (🥉25 ·  ⭐ 5.3K · ➕) - A dialect of Lisp thats embedded in Python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/hylang/hy">hy</a></b> (🥉24 ·  ⭐ 5.3K · 📉) - A dialect of Lisp thats embedded in Python. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/stackless-dev/stackless">stackless</a></b> (🥉17 ·  ⭐ 1.1K · 💤) - The Stackless Python programming language. <code>❗Unlicensed</code>
 </details>
 <br>
