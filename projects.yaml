@@ -31,3 +31,6 @@ projects:
   - name: stackless
     github_id: stackless-dev/stackless
     category: "supersets"
+  - name: pocketpy
+    github_id: pocketpy/pocketpy
+    category: "miscellaneous"
