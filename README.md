@@ -52,9 +52,9 @@ This list is inspired by [The Python Family of Languages](https://mattrickard.co
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
-<details><summary><b><a href="https://github.com/pocketpy/pocketpy">pocketpy</a></b> (🥇25 ·  ⭐ 2K · ➕) - Portable Python 3.x Interpreter in Modern C for Game Scripting. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pocketpy/pocketpy">pocketpy</a></b> (🥇25 ·  ⭐ 2K) - Portable Python 3.x Interpreter in Modern C for Game Scripting. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pocketpy/pocketpy) (👨‍💻 41 · 🔀 160 · 📥 5.7K · 📋 200 - 1% open · ⏱️ 27.11.2025):
+- [GitHub](https://github.com/pocketpy/pocketpy) (👨‍💻 41 · 🔀 160 · 📥 5.7K · 📋 200 - 1% open · ⏱️ 04.12.2025):
 
 	```
 	git clone https://github.com/pocketpy/pocketpy
@@ -70,7 +70,7 @@ _Best-of lists about supersets of python programming language._
 
 <details><summary><b><a href="https://github.com/cython/cython">cython</a></b> (🥇42 ·  ⭐ 10K) - The most widely used Python to C compiler. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cython/cython) (👨‍💻 580 · 🔀 1.6K · 📥 360K · 📦 210K · 📋 4.1K - 32% open · ⏱️ 27.11.2025):
+- [GitHub](https://github.com/cython/cython) (👨‍💻 580 · 🔀 1.6K · 📥 360K · 📦 210K · 📋 4.1K - 32% open · ⏱️ 04.12.2025):
 
 	```
 	git clone https://github.com/cython/cython
