@@ -54,7 +54,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary><b><a href="https://github.com/pocketpy/pocketpy">pocketpy</a></b> (🥇25 ·  ⭐ 2K) - Portable Python 3.x Interpreter in Modern C for Game Scripting. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pocketpy/pocketpy) (👨‍💻 43 · 🔀 160 · 📥 5.9K · 📋 210 - 1% open · ⏱️ 08.01.2026):
+- [GitHub](https://github.com/pocketpy/pocketpy) (👨‍💻 43 · 🔀 160 · 📥 6K · 📋 210 - 1% open · ⏱️ 14.01.2026):
 
 	```
 	git clone https://github.com/pocketpy/pocketpy
@@ -70,7 +70,7 @@ _Best-of lists about supersets of python programming language._
 
 <details><summary><b><a href="https://github.com/cython/cython">cython</a></b> (🥇42 ·  ⭐ 11K) - The most widely used Python to C compiler. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cython/cython) (👨‍💻 580 · 🔀 1.6K · 📥 380K · 📦 210K · 📋 4.1K - 31% open · ⏱️ 05.01.2026):
+- [GitHub](https://github.com/cython/cython) (👨‍💻 580 · 🔀 1.6K · 📥 390K · 📦 210K · 📋 4.1K - 32% open · ⏱️ 15.01.2026):
 
 	```
 	git clone https://github.com/cython/cython
@@ -78,7 +78,7 @@ _Best-of lists about supersets of python programming language._
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/hylang/hy">hy</a></b> (🥉26 ·  ⭐ 5.4K) - A dialect of Lisp thats embedded in Python. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/hylang/hy">hy</a></b> (🥉27 ·  ⭐ 5.4K · 📈) - A dialect of Lisp thats embedded in Python. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/stackless-dev/stackless">stackless</a></b> (🥉17 ·  ⭐ 1.1K · 💤) - The Stackless Python programming language. <code>❗Unlicensed</code>
 </details>
 <br>
