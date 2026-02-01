@@ -19,4 +19,4 @@ This curated list contains {project_count} awesome open-source projects with a t
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
-This list is inspired by [The Python Family of Languages](https://mattrickard.com/the-python-family-of-languages) by Matt Rickard.
+This list is inspired by [The Python Family of Languages](https://mattrickard.com/the-python-family-of-languages) by Matt Rickard. See also the [PythonImplementations](https://wiki.python.org/moin/PythonImplementations) page on the Python Wiki.

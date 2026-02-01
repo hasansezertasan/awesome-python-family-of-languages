@@ -8,29 +8,210 @@ categories:
     subtitle: "If you can think of a more appropriate category for the items below, PRs welcome!"
   - category: "supersets"
     title: "Supersets of Python"
-    subtitle: "Best-of lists about supersets of python programming language."
+    subtitle: "Languages that extend Python with additional syntax or features."
   - category: "subsets"
     title: "Subsets of Python"
-    subtitle: "Best-of lists about subsets of python programming language."
+    subtitle: "Restricted subsets of Python targeting specific domains or platforms."
   - category: "implemented-in-other-languages"
     title: "Python Implemented in Other Languages"
-    subtitle: "Best-of lists about python implemented in other languages."
+    subtitle: "Alternative Python interpreters and runtimes written in languages other than C."
+  - category: "compilers"
+    title: "Python Compilers"
+    subtitle: "Tools that compile Python to other targets like C, C++, or machine code."
+  - category: "cpython-forks"
+    title: "CPython Forks & JITs"
+    subtitle: "Forks and extensions of the CPython interpreter focused on performance."
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "written-in-python"
+    description: "Written in Python"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org"
+  - label: "written-in-rust"
+    description: "Written in Rust"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org"
+  - label: "written-in-c"
+    description: "Written in C"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://www.iso.org/standard/74528.html"
+  - label: "written-in-cpp"
+    description: "Written in C++"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org"
+  - label: "written-in-java"
+    description: "Written in Java"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://www.java.com"
+  - label: "written-in-csharp"
+    description: "Written in C#"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://dotnet.microsoft.com"
+  - label: "written-in-javascript"
+    description: "Written in JavaScript"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://developer.mozilla.org"
+  - label: "written-in-swift"
+    description: "Written in Swift"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://www.swift.org"
+  - label: "written-in-go"
+    description: "Written in Go"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://go.dev"
+  - label: "written-in-zig"
+    description: "Written in Zig"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://ziglang.org"
+  - label: "written-in-mojo"
+    description: "Written in Mojo"
+    image: "https://www.google.com/s2/favicons?sz=64&domain=https://www.modular.com"
 
 projects:
+  # Supersets of Python
+  - name: mojo
+    github_id: modular/modular
+    labels: ["written-in-mojo"]
+    category: "supersets"
   - name: cython
     github_id: cython/cython
+    labels: ["written-in-python"]
+    category: "supersets"
+  - name: coconut
+    github_id: evhub/coconut
+    labels: ["written-in-python"]
     category: "supersets"
   - name: hy
     github_id: hylang/hy
+    labels: ["written-in-python"]
+    category: "supersets"
+  - name: mochi
+    github_id: i2y/mochi
+    labels: ["written-in-python"]
+    category: "supersets"
+  - name: dg
+    github_id: pyos/dg
+    labels: ["written-in-python"]
+    category: "supersets"
+  - name: hissp
+    github_id: gilch/hissp
+    labels: ["written-in-python"]
+    category: "supersets"
+  - name: basilisp
+    github_id: basilisp-lang/basilisp
+    labels: ["written-in-python"]
+    category: "supersets"
+  - name: rapydscript
+    github_id: atsepkov/RapydScript
+    labels: ["written-in-javascript"]
     category: "supersets"
   - name: stackless
     github_id: stackless-dev/stackless
+    labels: ["written-in-c"]
     category: "supersets"
+  # Subsets of Python
+  - name: micropython
+    github_id: micropython/micropython
+    labels: ["written-in-c"]
+    category: "subsets"
+  - name: circuitpython
+    github_id: adafruit/circuitpython
+    labels: ["written-in-c"]
+    category: "subsets"
+  - name: starlark
+    github_id: bazelbuild/starlark
+    labels: ["written-in-go"]
+    category: "subsets"
+  - name: numba
+    github_id: numba/numba
+    labels: ["written-in-python"]
+    category: "subsets"
+  - name: pythran
+    github_id: serge-sans-paille/pythran
+    labels: ["written-in-cpp"]
+    category: "subsets"
+  # Python Implemented in Other Languages
+  - name: pyodide
+    github_id: pyodide/pyodide
+    labels: ["written-in-c"]
+    category: "implemented-in-other-languages"
+  - name: rustpython
+    github_id: RustPython/RustPython
+    labels: ["written-in-rust"]
+    category: "implemented-in-other-languages"
+  - name: monty
+    github_id: pydantic/monty
+    labels: ["written-in-rust"]
+    category: "implemented-in-other-languages"
+  - name: erg
+    github_id: erg-lang/erg
+    labels: ["written-in-rust"]
+    category: "implemented-in-other-languages"
+  - name: skulpt
+    github_id: skulpt/skulpt
+    labels: ["written-in-javascript"]
+    category: "implemented-in-other-languages"
+  - name: transcrypt
+    github_id: TranscryptOrg/Transcrypt
+    labels: ["written-in-python"]
+    category: "implemented-in-other-languages"
+  - name: brython
+    github_id: brython-dev/brython
+    labels: ["written-in-javascript"]
+    category: "implemented-in-other-languages"
+  - name: jython
+    github_id: jython/jython
+    labels: ["written-in-java"]
+    category: "implemented-in-other-languages"
+  - name: graalpython
+    github_id: oracle/graalpython
+    labels: ["written-in-java"]
+    category: "implemented-in-other-languages"
+  - name: ironpython
+    github_id: IronLanguages/ironpython3
+    labels: ["written-in-csharp"]
+    category: "implemented-in-other-languages"
+  - name: violet
+    github_id: LiarPrincess/Violet
+    labels: ["written-in-swift"]
+    category: "implemented-in-other-languages"
+  - name: osmium
+    github_id: Rexicon226/osmium
+    labels: ["written-in-zig"]
+    category: "implemented-in-other-languages"
+  - name: pypy
+    github_id: pypy/pypy
+    labels: ["written-in-python"]
+    category: "implemented-in-other-languages"
   - name: pocketpy
     github_id: pocketpy/pocketpy
-    category: "miscellaneous"
+    labels: ["written-in-cpp"]
+    category: "implemented-in-other-languages"
+  - name: gpython
+    github_id: go-python/gpython
+    labels: ["written-in-go"]
+    category: "implemented-in-other-languages"
+  # Python Compilers
+  - name: codon
+    github_id: exaloop/codon
+    labels: ["written-in-cpp"]
+    category: "compilers"
+  - name: nuitka
+    github_id: Nuitka/Nuitka
+    labels: ["written-in-python"]
+    category: "compilers"
+  - name: mypyc
+    github_id: mypyc/mypyc
+    labels: ["written-in-python"]
+    category: "compilers"
+  - name: shedskin
+    github_id: shedskin/shedskin
+    labels: ["written-in-python"]
+    category: "compilers"
+  # CPython Forks & JITs
+  - name: cinder
+    github_id: facebookincubator/cinder
+    labels: ["written-in-c"]
+    category: "cpython-forks"
+  - name: skybison
+    github_id: tekknolagi/skybison
+    labels: ["written-in-cpp"]
+    category: "cpython-forks"
+  - name: pyston
+    github_id: pyston/pyston
+    labels: ["written-in-c"]
+    category: "cpython-forks"
+  - name: pyjion
+    github_id: tonybaloney/Pyjion
+    labels: ["written-in-cpp"]
+    category: "cpython-forks"
