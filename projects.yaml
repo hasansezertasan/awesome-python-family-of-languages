@@ -185,6 +185,10 @@ projects:
     github_id: google/starlark-go
     labels: ["written-in-go"]
     category: "implemented-in-other-languages"
+  - name: starlark-rust
+    github_id: facebook/starlark-rust
+    labels: ["written-in-rust"]
+    category: "implemented-in-other-languages"
   # Python Compilers
   - name: codon
     github_id: exaloop/codon
