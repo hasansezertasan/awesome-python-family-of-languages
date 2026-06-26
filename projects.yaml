@@ -206,6 +206,10 @@ projects:
     github_id: lcompilers/lpython
     labels: ["written-in-cpp"]
     category: "compilers"
+  - name: py2many
+    github_id: py2many/py2many
+    labels: ["written-in-python"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
