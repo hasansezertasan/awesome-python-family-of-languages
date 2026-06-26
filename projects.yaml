@@ -112,6 +112,11 @@ projects:
     github_id: kuroko-lang/kuroko
     labels: ["written-in-c"]
     category: "supersets"
+  - name: mingshe
+    github_id: abersheeran/mingshe
+    pypi_id: mingshe
+    labels: ["written-in-python"]
+    category: "supersets"
   # Subsets of Python
   - name: micropython
     github_id: micropython/micropython
