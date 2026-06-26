@@ -288,6 +288,10 @@ projects:
     description: "A Python to WebAssembly (Wasm) compiler, based on Nuitka."
     labels: ["written-in-python"]
     category: "compilers"
+  - name: py14
+    github_id: lukasmartinelli/py14
+    labels: ["written-in-python"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
