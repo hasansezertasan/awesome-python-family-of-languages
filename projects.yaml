@@ -288,6 +288,10 @@ projects:
     description: "A Python to WebAssembly (Wasm) compiler, based on Nuitka."
     labels: ["written-in-python"]
     category: "compilers"
+  - name: transpyle
+    github_id: mbdevpl/transpyle
+    labels: ["written-in-python"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
