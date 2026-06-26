@@ -233,6 +233,10 @@ projects:
     pypi_id: voc
     labels: ["written-in-python"]
     category: "compilers"
+  - name: prometeo
+    github_id: zanellia/prometeo
+    labels: ["written-in-python"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
