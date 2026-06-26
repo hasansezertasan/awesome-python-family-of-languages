@@ -237,6 +237,10 @@ projects:
     github_id: zanellia/prometeo
     labels: ["written-in-python"]
     category: "compilers"
+  - name: pytocs
+    github_id: uxmal/pytocs
+    labels: ["written-in-csharp"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
