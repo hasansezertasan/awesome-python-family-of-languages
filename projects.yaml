@@ -206,6 +206,10 @@ projects:
   - name: cl-python
     github_id: metawilm/cl-python
     category: "implemented-in-other-languages"
+  - name: edge-python
+    github_id: dylan-sutton-chavez/edge-python
+    labels: ["written-in-rust"]
+    category: "implemented-in-other-languages"
   # Python Compilers
   - name: codon
     github_id: exaloop/codon
