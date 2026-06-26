@@ -232,6 +232,10 @@ projects:
     pypi_id: x-python
     labels: ["written-in-python"]
     category: "implemented-in-other-languages"
+  - name: tinypy
+    github_id: philhassey/tinypy
+    labels: ["written-in-c"]
+    category: "implemented-in-other-languages"
   # Python Compilers
   - name: codon
     github_id: exaloop/codon
