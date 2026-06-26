@@ -241,6 +241,11 @@ projects:
     github_id: uxmal/pytocs
     labels: ["written-in-csharp"]
     category: "compilers"
+  - name: pyccel
+    github_id: pyccel/pyccel
+    pypi_id: pyccel
+    labels: ["written-in-python"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
