@@ -241,3 +241,7 @@ projects:
     github_id: tonybaloney/Pyjion
     labels: ["written-in-cpp"]
     category: "cpython-forks"
+  - name: nogil
+    github_id: colesbury/nogil
+    labels: ["written-in-c"]
+    category: "cpython-forks"
