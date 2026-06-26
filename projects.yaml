@@ -120,6 +120,11 @@ projects:
     github_id: serge-sans-paille/pythran
     labels: ["written-in-cpp"]
     category: "subsets"
+  - name: taichi
+    github_id: taichi-dev/taichi
+    pypi_id: taichi
+    labels: ["written-in-cpp"]
+    category: "subsets"
   # Python Implemented in Other Languages
   - name: pyodide
     github_id: pyodide/pyodide
