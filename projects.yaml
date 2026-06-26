@@ -261,6 +261,11 @@ projects:
     github_id: yaneurao/Pytra
     labels: ["written-in-python"]
     category: "compilers"
+  - name: py2wasm
+    github_id: wasmerio/py2wasm
+    description: "A Python to WebAssembly (Wasm) compiler, based on Nuitka."
+    labels: ["written-in-python"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
