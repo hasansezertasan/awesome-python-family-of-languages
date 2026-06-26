@@ -203,6 +203,9 @@ projects:
     github_id: beeware/batavia
     labels: ["written-in-javascript"]
     category: "implemented-in-other-languages"
+  - name: cl-python
+    github_id: metawilm/cl-python
+    category: "implemented-in-other-languages"
   # Python Compilers
   - name: codon
     github_id: exaloop/codon
