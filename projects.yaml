@@ -117,6 +117,10 @@ projects:
     pypi_id: mingshe
     labels: ["written-in-python"]
     category: "supersets"
+  - name: pydialect
+    github_id: Technologicat/pydialect
+    labels: ["written-in-python"]
+    category: "supersets"
   # Subsets of Python
   - name: micropython
     github_id: micropython/micropython
