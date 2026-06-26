@@ -108,6 +108,10 @@ projects:
     github_id: kovidgoyal/rapydscript-ng
     labels: ["written-in-javascript"]
     category: "supersets"
+  - name: kuroko
+    github_id: kuroko-lang/kuroko
+    labels: ["written-in-c"]
+    category: "supersets"
   # Subsets of Python
   - name: micropython
     github_id: micropython/micropython
