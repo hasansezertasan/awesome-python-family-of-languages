@@ -250,6 +250,10 @@ projects:
     github_id: nottheswimmer/pytago
     labels: ["written-in-python"]
     category: "compilers"
+  - name: pytra
+    github_id: yaneurao/Pytra
+    labels: ["written-in-python"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
