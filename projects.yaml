@@ -104,6 +104,10 @@ projects:
     pypi_id: bython
     labels: ["written-in-python"]
     category: "supersets"
+  - name: rapydscript-ng
+    github_id: kovidgoyal/rapydscript-ng
+    labels: ["written-in-javascript"]
+    category: "supersets"
   # Subsets of Python
   - name: micropython
     github_id: micropython/micropython
