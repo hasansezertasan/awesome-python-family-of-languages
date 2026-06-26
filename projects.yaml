@@ -222,6 +222,11 @@ projects:
     github_id: dylan-sutton-chavez/edge-python
     labels: ["written-in-rust"]
     category: "implemented-in-other-languages"
+  - name: x-python
+    github_id: rocky/x-python
+    pypi_id: x-python
+    labels: ["written-in-python"]
+    category: "implemented-in-other-languages"
   # Python Compilers
   - name: codon
     github_id: exaloop/codon
