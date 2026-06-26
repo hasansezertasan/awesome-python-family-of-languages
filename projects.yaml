@@ -232,6 +232,10 @@ projects:
     pypi_id: x-python
     labels: ["written-in-python"]
     category: "implemented-in-other-languages"
+  - name: jspython
+    github_id: jspython-dev/jspython
+    labels: ["written-in-javascript"]
+    category: "implemented-in-other-languages"
   # Python Compilers
   - name: codon
     github_id: exaloop/codon
