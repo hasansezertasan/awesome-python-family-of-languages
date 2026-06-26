@@ -181,6 +181,10 @@ projects:
     github_id: go-python/gpython
     labels: ["written-in-go"]
     category: "implemented-in-other-languages"
+  - name: starlark-go
+    github_id: google/starlark-go
+    labels: ["written-in-go"]
+    category: "implemented-in-other-languages"
   # Python Compilers
   - name: codon
     github_id: exaloop/codon
