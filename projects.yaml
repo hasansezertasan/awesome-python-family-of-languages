@@ -228,6 +228,11 @@ projects:
     github_id: py2many/py2many
     labels: ["written-in-python"]
     category: "compilers"
+  - name: voc
+    github_id: beeware/voc
+    pypi_id: voc
+    labels: ["written-in-python"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
