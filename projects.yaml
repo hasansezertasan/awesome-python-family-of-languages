@@ -199,6 +199,10 @@ projects:
     github_id: facebook/starlark-rust
     labels: ["written-in-rust"]
     category: "implemented-in-other-languages"
+  - name: batavia
+    github_id: beeware/batavia
+    labels: ["written-in-javascript"]
+    category: "implemented-in-other-languages"
   # Python Compilers
   - name: codon
     github_id: exaloop/codon
