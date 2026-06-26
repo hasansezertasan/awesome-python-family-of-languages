@@ -246,6 +246,10 @@ projects:
     pypi_id: pyccel
     labels: ["written-in-python"]
     category: "compilers"
+  - name: pytago
+    github_id: nottheswimmer/pytago
+    labels: ["written-in-python"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
