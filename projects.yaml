@@ -99,6 +99,11 @@ projects:
     github_id: stackless-dev/stackless
     labels: ["written-in-c"]
     category: "supersets"
+  - name: bython
+    github_id: mathialo/bython
+    pypi_id: bython
+    labels: ["written-in-python"]
+    category: "supersets"
   # Subsets of Python
   - name: micropython
     github_id: micropython/micropython
