@@ -198,6 +198,10 @@ projects:
     github_id: shedskin/shedskin
     labels: ["written-in-python"]
     category: "compilers"
+  - name: lpython
+    github_id: lcompilers/lpython
+    labels: ["written-in-cpp"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
