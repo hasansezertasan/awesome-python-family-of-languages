@@ -292,6 +292,10 @@ projects:
     description: "A Python to WebAssembly (Wasm) compiler, based on Nuitka."
     labels: ["written-in-python"]
     category: "compilers"
+  - name: rusthon
+    github_id: rusthon/Rusthon
+    labels: ["written-in-python"]
+    category: "compilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
