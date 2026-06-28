@@ -232,6 +232,10 @@ projects:
     pypi_id: x-python
     labels: ["written-in-python"]
     category: "implemented-in-other-languages"
+  - name: minipy
+    github_id: xupingmao/minipy
+    labels: ["written-in-c"]
+    category: "implemented-in-other-languages"
   # Python Compilers
   - name: codon
     github_id: exaloop/codon
