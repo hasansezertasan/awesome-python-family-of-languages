@@ -117,6 +117,10 @@ projects:
     pypi_id: mingshe
     labels: ["written-in-python"]
     category: "supersets"
+  - name: makrell
+    github_id: hcholm/makrell-py
+    labels: ["written-in-python"]
+    category: "supersets"
   # Subsets of Python
   - name: micropython
     github_id: micropython/micropython
@@ -232,6 +236,10 @@ projects:
     pypi_id: x-python
     labels: ["written-in-python"]
     category: "implemented-in-other-languages"
+  - name: minipy
+    github_id: xupingmao/minipy
+    labels: ["written-in-c"]
+    category: "implemented-in-other-languages"
   # Python Compilers
   - name: codon
     github_id: exaloop/codon
@@ -288,6 +296,8 @@ projects:
     description: "A Python to WebAssembly (Wasm) compiler, based on Nuitka."
     labels: ["written-in-python"]
     category: "compilers"
+  - name: rusthon
+    github_id: rusthon/Rusthon
   - name: transpyle
     github_id: mbdevpl/transpyle
     labels: ["written-in-python"]
