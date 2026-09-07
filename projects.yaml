@@ -151,6 +151,10 @@ projects:
     github_id: pfalcon/pycopy
     labels: ["written-in-c"]
     category: "subsets"
+  - name: p14p
+    github_id: dwhall/p14p
+    labels: ["written-in-c"]
+    category: "subsets"
   # Python Implemented in Other Languages
   - name: pyodide
     github_id: pyodide/pyodide
