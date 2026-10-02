@@ -298,6 +298,8 @@ projects:
     category: "compilers"
   - name: rusthon
     github_id: rusthon/Rusthon
+  - name: transpyle
+    github_id: mbdevpl/transpyle
     labels: ["written-in-python"]
     category: "compilers"
   # CPython Forks & JITs
