@@ -66,6 +66,11 @@ projects:
     github_id: akrylysov/abrvalg
     labels: ["written-in-python"]
     category: "miscellaneous"
+  - name: jspython
+    github_id: jspython-dev/jspython
+    npm_id: jspython-interpreter
+    labels: ["written-in-javascript"]
+    category: "miscellaneous"
   # Supersets of Python
   - name: mojo
     github_id: modular/modular
