@@ -346,6 +346,10 @@ projects:
     github_id: pseudo-lang/pseudo-python
     labels: ["written-in-python"]
     category: "transpilers"
+  - name: python-lua
+    github_id: VideoCarp/python-lua
+    labels: ["written-in-python"]
+    category: "transpilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
