@@ -266,6 +266,10 @@ projects:
     labels: ["written-in-python"]
     category: "compilers"
   # Python Transpilers
+  - name: pyrs
+    github_id: konchunas/pyrs
+    labels: ["written-in-python"]
+    category: "transpilers"
   - name: shedskin
     github_id: shedskin/shedskin
     labels: ["written-in-python"]
