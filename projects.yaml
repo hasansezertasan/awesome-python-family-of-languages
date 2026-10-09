@@ -304,6 +304,10 @@ projects:
     github_id: rusthon/Rusthon
     labels: ["written-in-python"]
     category: "transpilers"
+  - name: transpyle
+    github_id: mbdevpl/transpyle
+    labels: ["written-in-python"]
+    category: "transpilers"
   - name: pycer
     github_id: harishtpj/PyCer
     labels: ["written-in-python"]
