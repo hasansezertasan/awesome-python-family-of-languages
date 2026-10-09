@@ -363,6 +363,10 @@ projects:
     github_id: alexander-jackson/ptc
     labels: ["written-in-rust"]
     category: "transpilers"
+  - name: py14
+    github_id: lukasmartinelli/py14
+    labels: ["written-in-python"]
+    category: "transpilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
