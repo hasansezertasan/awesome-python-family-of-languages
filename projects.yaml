@@ -71,6 +71,10 @@ projects:
     npm_id: jspython-interpreter
     labels: ["written-in-javascript"]
     category: "miscellaneous"
+  - name: pyxell
+    github_id: adamsol/Pyxell
+    labels: ["written-in-python"]
+    category: "miscellaneous"
   # Supersets of Python
   - name: mojo
     github_id: modular/modular
