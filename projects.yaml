@@ -146,6 +146,11 @@ projects:
     github_id: Technologicat/pydialect
     labels: ["written-in-python"]
     category: "supersets"
+  - name: mcpyrate
+    github_id: Technologicat/mcpyrate
+    pypi_id: mcpyrate
+    labels: ["written-in-python"]
+    category: "supersets"
   # Subsets of Python
   - name: micropython
     github_id: micropython/micropython
