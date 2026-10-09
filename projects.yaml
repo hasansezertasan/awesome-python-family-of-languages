@@ -17,7 +17,10 @@ categories:
     subtitle: "Alternative Python interpreters and runtimes written in languages other than C."
   - category: "compilers"
     title: "Python Compilers"
-    subtitle: "Tools that compile Python to other targets like C, C++, or machine code."
+    subtitle: "Tools that compile Python to native code, executables, extension modules, or low-level targets like WebAssembly."
+  - category: "transpilers"
+    title: "Python Transpilers"
+    subtitle: "Tools that translate Python source code into other high-level languages like C, C++, C#, Go, or JavaScript."
   - category: "cpython-forks"
     title: "CPython Forks & JITs"
     subtitle: "Forks and extensions of the CPython interpreter focused on performance."
@@ -253,53 +256,58 @@ projects:
     github_id: mypyc/mypyc
     labels: ["written-in-python"]
     category: "compilers"
-  - name: shedskin
-    github_id: shedskin/shedskin
-    labels: ["written-in-python"]
-    category: "compilers"
   - name: lpython
     github_id: lcompilers/lpython
     labels: ["written-in-cpp"]
-    category: "compilers"
-  - name: py2many
-    github_id: py2many/py2many
-    labels: ["written-in-python"]
-    category: "compilers"
-  - name: voc
-    github_id: beeware/voc
-    pypi_id: voc
-    labels: ["written-in-python"]
-    category: "compilers"
-  - name: prometeo
-    github_id: zanellia/prometeo
-    labels: ["written-in-python"]
-    category: "compilers"
-  - name: pytocs
-    github_id: uxmal/pytocs
-    labels: ["written-in-csharp"]
-    category: "compilers"
-  - name: pyccel
-    github_id: pyccel/pyccel
-    pypi_id: pyccel
-    labels: ["written-in-python"]
-    category: "compilers"
-  - name: pytago
-    github_id: nottheswimmer/pytago
-    labels: ["written-in-python"]
-    category: "compilers"
-  - name: pytra
-    github_id: yaneurao/Pytra
-    labels: ["written-in-python"]
     category: "compilers"
   - name: py2wasm
     github_id: wasmerio/py2wasm
     description: "A Python to WebAssembly (Wasm) compiler, based on Nuitka."
     labels: ["written-in-python"]
     category: "compilers"
+  # Python Transpilers
+  - name: shedskin
+    github_id: shedskin/shedskin
+    labels: ["written-in-python"]
+    category: "transpilers"
+  - name: py2many
+    github_id: py2many/py2many
+    labels: ["written-in-python"]
+    category: "transpilers"
+  - name: voc
+    github_id: beeware/voc
+    pypi_id: voc
+    labels: ["written-in-python"]
+    category: "transpilers"
+  - name: prometeo
+    github_id: zanellia/prometeo
+    labels: ["written-in-python"]
+    category: "transpilers"
+  - name: pytocs
+    github_id: uxmal/pytocs
+    labels: ["written-in-csharp"]
+    category: "transpilers"
+  - name: pyccel
+    github_id: pyccel/pyccel
+    pypi_id: pyccel
+    labels: ["written-in-python"]
+    category: "transpilers"
+  - name: pytago
+    github_id: nottheswimmer/pytago
+    labels: ["written-in-python"]
+    category: "transpilers"
+  - name: pytra
+    github_id: yaneurao/Pytra
+    labels: ["written-in-python"]
+    category: "transpilers"
   - name: rusthon
     github_id: rusthon/Rusthon
     labels: ["written-in-python"]
-    category: "compilers"
+    category: "transpilers"
+  - name: pycer
+    github_id: harishtpj/PyCer
+    labels: ["written-in-python"]
+    category: "transpilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
