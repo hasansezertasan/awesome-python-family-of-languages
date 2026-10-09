@@ -270,6 +270,10 @@ projects:
     github_id: exaloop/codon
     labels: ["written-in-cpp"]
     category: "compilers"
+  - name: seq
+    github_id: exaloop/seq
+    labels: ["written-in-cpp"]
+    category: "compilers"
   - name: nuitka
     github_id: Nuitka/Nuitka
     labels: ["written-in-python"]
