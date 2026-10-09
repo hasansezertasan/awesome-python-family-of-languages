@@ -359,6 +359,10 @@ projects:
     github_id: VideoCarp/python-lua
     labels: ["written-in-python"]
     category: "transpilers"
+  - name: ptc
+    github_id: alexander-jackson/ptc
+    labels: ["written-in-rust"]
+    category: "transpilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
