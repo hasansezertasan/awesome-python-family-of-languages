@@ -320,6 +320,10 @@ projects:
     github_id: harishtpj/PyCer
     labels: ["written-in-python"]
     category: "transpilers"
+  - name: pseudo-python
+    github_id: pseudo-lang/pseudo-python
+    labels: ["written-in-python"]
+    category: "transpilers"
   # CPython Forks & JITs
   - name: cinder
     github_id: facebookincubator/cinder
