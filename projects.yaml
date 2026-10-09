@@ -61,6 +61,11 @@ labels:
     image: "https://www.google.com/s2/favicons?sz=64&domain=https://www.modular.com"
 
 projects:
+  # Miscellaneous
+  - name: abrvalg
+    github_id: akrylysov/abrvalg
+    labels: ["written-in-python"]
+    category: "miscellaneous"
   # Supersets of Python
   - name: mojo
     github_id: modular/modular
