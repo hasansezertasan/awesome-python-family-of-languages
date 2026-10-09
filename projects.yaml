@@ -129,6 +129,10 @@ projects:
     github_id: hcholm/makrell-py
     labels: ["written-in-python"]
     category: "supersets"
+  - name: yapypy
+    github_id: Xython/YAPyPy
+    labels: ["written-in-python"]
+    category: "supersets"
   # Subsets of Python
   - name: micropython
     github_id: micropython/micropython
