@@ -36,7 +36,7 @@ Edit `projects.yaml` only. Never modify README.md directly.
 
 **Optional properties:**
 
-- `category` - One of: `supersets`, `subsets`, `implemented-in-other-languages`, `compilers`, `cpython-forks`, `miscellaneous`
+- `category` - One of: `supersets`, `subsets`, `implemented-in-other-languages`, `compilers`, `transpilers`, `cpython-forks`, `miscellaneous`
 - `labels` - List of labels
 - `pypi_id`, `conda_id`, `npm_id`, `dockerhub_id`, `maven_id` - Package manager IDs
 
