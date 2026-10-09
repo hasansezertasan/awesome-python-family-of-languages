@@ -142,6 +142,10 @@ projects:
     github_id: Xython/YAPyPy
     labels: ["written-in-python"]
     category: "supersets"
+  - name: pydialect
+    github_id: Technologicat/pydialect
+    labels: ["written-in-python"]
+    category: "supersets"
   # Subsets of Python
   - name: micropython
     github_id: micropython/micropython
