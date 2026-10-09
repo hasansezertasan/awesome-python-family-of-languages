@@ -154,6 +154,10 @@ projects:
     github_id: pfalcon/pycopy
     labels: ["written-in-c"]
     category: "subsets"
+  - name: tinypy
+    github_id: philhassey/tinypy
+    labels: ["written-in-c"]
+    category: "subsets"
   # Python Implemented in Other Languages
   - name: pyodide
     github_id: pyodide/pyodide
