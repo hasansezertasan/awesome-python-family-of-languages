@@ -15,7 +15,7 @@
     <a href="https://github.com/hasansezertasan/awesome-python-family-of-languages/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/awesome-python-family-of-languages?color=green&label=updated"></a>
 </p>
 
-This curated list contains 79 awesome open-source projects with a total of 260K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-family-of-languages/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-family-of-languages/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-family-of-languages/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 79 awesome open-source projects with a total of 270K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/awesome-python-family-of-languages/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/awesome-python-family-of-languages/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/awesome-python-family-of-languages/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -68,7 +68,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 
 <details><summary>Show 3 hidden projects...</summary>
 
-- <b><a href="https://github.com/jspython-dev/jspython">jspython</a></b> (🥇14 ·  ⭐ 84 · ➕) - JSPython is a python-like syntax interpreter implemented with.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://developer.mozilla.org" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/jspython-dev/jspython">jspython</a></b> (🥇14 ·  ⭐ 85) - JSPython is a python-like syntax interpreter implemented with.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://developer.mozilla.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/adamsol/Pyxell">pyxell</a></b> (🥉9 ·  ⭐ 59 · 💀) - Multi-paradigm programming language compiled to C++, written in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/akrylysov/abrvalg">abrvalg</a></b> (🥉5 ·  ⭐ 110 · 💀) - Python-like programming language interpreter written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
 </details>
@@ -82,7 +82,7 @@ _Languages that extend Python with additional syntax or features._
 
 <details><summary><b><a href="https://github.com/cython/cython">cython</a></b> (🥇42 ·  ⭐ 11K) - The most widely used Python to C compiler. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/cython/cython) (👨‍💻 610 · 🔀 1.6K · 📥 360K · 📦 220K · 📋 4.3K - 31% open · ⏱️ 15.10.2026):
+- [GitHub](https://github.com/cython/cython) (👨‍💻 610 · 🔀 1.6K · 📥 370K · 📦 220K · 📋 4.3K - 31% open · ⏱️ 18.10.2026):
 
 	```
 	git clone https://github.com/cython/cython
@@ -96,7 +96,7 @@ _Languages that extend Python with additional syntax or features._
 	git clone https://github.com/evhub/coconut
 	```
 </details>
-<details><summary><b><a href="https://github.com/kovidgoyal/rapydscript-ng">rapydscript-ng</a></b> (🥈19 ·  ⭐ 210) - A transpiler for a Python like language to JavaScript. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://developer.mozilla.org" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/kovidgoyal/rapydscript-ng">rapydscript-ng</a></b> (🥈17 ·  ⭐ 200 · 📉) - A transpiler for a Python like language to JavaScript. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://developer.mozilla.org" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/kovidgoyal/rapydscript-ng) (👨‍💻 13 · 🔀 44 · 📦 17 · 📋 170 - 5% open · ⏱️ 08.10.2026):
 
@@ -104,15 +104,15 @@ _Languages that extend Python with additional syntax or features._
 	git clone https://github.com/kovidgoyal/rapydscript-ng
 	```
 </details>
-<details><summary><b><a href="https://github.com/kuroko-lang/kuroko">kuroko</a></b> (🥉16 ·  ⭐ 490) - Dialect of Python with explicit variable declaration and block.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.iso.org/standard/74528.html" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/kuroko-lang/kuroko">kuroko</a></b> (🥈16 ·  ⭐ 490) - Dialect of Python with explicit variable declaration and block.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.iso.org/standard/74528.html" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/kuroko-lang/kuroko) (👨‍💻 2 · 🔀 36 · 📥 810 · 📋 45 - 28% open · ⏱️ 05.10.2026):
+- [GitHub](https://github.com/kuroko-lang/kuroko) (👨‍💻 2 · 🔀 36 · 📥 830 · 📋 45 - 28% open · ⏱️ 05.10.2026):
 
 	```
 	git clone https://github.com/kuroko-lang/kuroko
 	```
 </details>
-<details><summary><b><a href="https://github.com/gilch/hissp">hissp</a></b> (🥉16 ·  ⭐ 450) - Its Python with a Lissp. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/gilch/hissp">hissp</a></b> (🥈16 ·  ⭐ 450) - Its Python with a Lissp. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/gilch/hissp) (👨‍💻 4 · 🔀 15 · 📥 54 · 📦 6 · 📋 110 - 25% open · ⏱️ 03.08.2026):
 
@@ -122,13 +122,13 @@ _Languages that extend Python with additional syntax or features._
 </details>
 <details><summary>Show 13 hidden projects...</summary>
 
-- <b><a href="https://github.com/modular/modular">mojo</a></b> (🥇30 ·  ⭐ 30K) - The Modular Platform (includes MAX & Mojo). <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.modular.com" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/hylang/hy">hy</a></b> (🥈25 ·  ⭐ 5.4K) - A dialect of Lisp thats embedded in Python. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/basilisp-lang/basilisp">basilisp</a></b> (🥈17 ·  ⭐ 480) - A Clojure-compatible(-ish) Lisp dialect hosted on Python 3.. <code><a href="https://tldrlegal.com/search?q=EPL-1.0">❗️EPL-1.0</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/Technologicat/mcpyrate">mcpyrate</a></b> (🥈17 ·  ⭐ 73 · ➕) - Advanced macro expander and language lab for Python... <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/mathialo/bython">bython</a></b> (🥉16 ·  ⭐ 2.7K · 💀) - Python with braces. Because python is awesome, but whitespace is.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/atsepkov/RapydScript">rapydscript</a></b> (🥉16 ·  ⭐ 690 · 💀) - Python-inspired, decluttered JavaScript. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://developer.mozilla.org" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/stackless-dev/stackless">stackless</a></b> (🥉15 ·  ⭐ 1.1K · 💀) - The Stackless Python programming language. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.iso.org/standard/74528.html" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/modular/modular">mojo</a></b> (🥇31 ·  ⭐ 30K · 📈) - The Modular Platform (includes MAX & Mojo). <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.modular.com" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/hylang/hy">hy</a></b> (🥈26 ·  ⭐ 5.4K · 📈) - A dialect of Lisp thats embedded in Python. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/Technologicat/mcpyrate">mcpyrate</a></b> (🥈17 ·  ⭐ 73) - Advanced macro expander and language lab for Python... <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/mathialo/bython">bython</a></b> (🥈16 ·  ⭐ 2.7K · 💀) - Python with braces. Because python is awesome, but whitespace is.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/atsepkov/RapydScript">rapydscript</a></b> (🥈16 ·  ⭐ 690 · 💀) - Python-inspired, decluttered JavaScript. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://developer.mozilla.org" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/basilisp-lang/basilisp">basilisp</a></b> (🥈16 ·  ⭐ 480 · 📉) - A Clojure-compatible(-ish) Lisp dialect hosted on Python 3.. <code><a href="https://tldrlegal.com/search?q=EPL-1.0">❗️EPL-1.0</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/stackless-dev/stackless">stackless</a></b> (🥉15 ·  ⭐ 1K · 💀) - The Stackless Python programming language. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.iso.org/standard/74528.html" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/i2y/mochi">mochi</a></b> (🥉13 ·  ⭐ 910 · 💀) - Dynamically typed functional programming language. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/pyos/dg">dg</a></b> (🥉13 ·  ⭐ 580 · 💀) - A programming language for the CPython VM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/Xython/YAPyPy">yapypy</a></b> (🥉9 ·  ⭐ 91 · 💀) - Yet another Python Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
@@ -146,7 +146,7 @@ _Restricted subsets of Python targeting specific domains or platforms._
 
 <details><summary><b><a href="https://github.com/numba/numba">numba</a></b> (🥇39 ·  ⭐ 11K) - NumPy aware dynamic Python compiler using LLVM. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/numba/numba) (👨‍💻 460 · 🔀 1.3K · 📦 180K · 📋 5.7K - 29% open · ⏱️ 14.10.2026):
+- [GitHub](https://github.com/numba/numba) (👨‍💻 460 · 🔀 1.3K · 📦 180K · 📋 5.7K - 29% open · ⏱️ 22.10.2026):
 
 	```
 	git clone https://github.com/numba/numba
@@ -154,7 +154,7 @@ _Restricted subsets of Python targeting specific domains or platforms._
 </details>
 <details><summary><b><a href="https://github.com/serge-sans-paille/pythran">pythran</a></b> (🥉25 ·  ⭐ 2.1K) - Ahead of Time compiler for numeric kernels. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/serge-sans-paille/pythran) (👨‍💻 78 · 🔀 200 · 📦 3.7K · 📋 960 - 14% open · ⏱️ 13.10.2026):
+- [GitHub](https://github.com/serge-sans-paille/pythran) (👨‍💻 78 · 🔀 200 · 📦 3.7K · 📋 960 - 14% open · ⏱️ 17.10.2026):
 
 	```
 	git clone https://github.com/serge-sans-paille/pythran
@@ -187,7 +187,7 @@ _Alternative Python interpreters and runtimes written in languages other than C.
 
 <details><summary><b><a href="https://github.com/pyodide/pyodide">pyodide</a></b> (🥇37 ·  ⭐ 15K) - Pyodide is a Python distribution for the browser and Node.js.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.iso.org/standard/74528.html" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pyodide/pyodide) (👨‍💻 310 · 🔀 1K · 📥 2.4M · 📦 7.3K · 📋 1.8K - 18% open · ⏱️ 15.10.2026):
+- [GitHub](https://github.com/pyodide/pyodide) (👨‍💻 310 · 🔀 1K · 📥 2.5M · 📦 7.4K · 📋 1.8K - 18% open · ⏱️ 22.10.2026):
 
 	```
 	git clone https://github.com/pyodide/pyodide
@@ -195,7 +195,7 @@ _Alternative Python interpreters and runtimes written in languages other than C.
 </details>
 <details><summary><b><a href="https://github.com/RustPython/RustPython">rustpython</a></b> (🥇35 ·  ⭐ 22K) - A Python Interpreter written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/RustPython/RustPython) (👨‍💻 540 · 🔀 1.5K · 📥 3.6K · 📦 900 · 📋 1.4K - 12% open · ⏱️ 15.10.2026):
+- [GitHub](https://github.com/RustPython/RustPython) (👨‍💻 540 · 🔀 1.5K · 📥 4.7K · 📦 900 · 📋 1.4K - 12% open · ⏱️ 22.10.2026):
 
 	```
 	git clone https://github.com/RustPython/RustPython
@@ -203,15 +203,15 @@ _Alternative Python interpreters and runtimes written in languages other than C.
 </details>
 <details><summary><b><a href="https://github.com/brython-dev/brython">brython</a></b> (🥇33 ·  ⭐ 6.6K) - Brython (Browser Python) is an implementation of Python 3 running.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://developer.mozilla.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/brython-dev/brython) (👨‍💻 130 · 🔀 520 · 📥 47K · 📦 520 · 📋 2.2K - 4% open · ⏱️ 15.10.2026):
+- [GitHub](https://github.com/brython-dev/brython) (👨‍💻 130 · 🔀 520 · 📥 47K · 📦 520 · 📋 2.2K - 3% open · ⏱️ 21.10.2026):
 
 	```
 	git clone https://github.com/brython-dev/brython
 	```
 </details>
-<details><summary><b><a href="https://github.com/pydantic/monty">monty</a></b> (🥈27 ·  ⭐ 8.7K) - A secure Python sandbox, written in Rust, for code written by AI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pydantic/monty">monty</a></b> (🥈27 ·  ⭐ 8.8K) - A secure Python sandbox, written in Rust, for code written by AI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pydantic/monty) (👨‍💻 62 · 🔀 460 · 📦 60 · 📋 220 - 40% open · ⏱️ 15.10.2026):
+- [GitHub](https://github.com/pydantic/monty) (👨‍💻 66 · 🔀 470 · 📦 61 · 📋 230 - 42% open · ⏱️ 21.10.2026):
 
 	```
 	git clone https://github.com/pydantic/monty
@@ -227,7 +227,7 @@ _Alternative Python interpreters and runtimes written in languages other than C.
 </details>
 <details><summary><b><a href="https://github.com/IronLanguages/ironpython3">ironpython</a></b> (🥈25 ·  ⭐ 2.8K) - Implementation of Python 3.x for .NET Framework that is.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://dotnet.microsoft.com" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/IronLanguages/ironpython3) (👨‍💻 42 · 🔀 310 · 📥 230K · 📋 680 - 38% open · ⏱️ 13.10.2026):
+- [GitHub](https://github.com/IronLanguages/ironpython3) (👨‍💻 42 · 🔀 310 · 📥 240K · 📋 680 - 37% open · ⏱️ 21.10.2026):
 
 	```
 	git clone https://github.com/IronLanguages/ironpython3
@@ -235,7 +235,7 @@ _Alternative Python interpreters and runtimes written in languages other than C.
 </details>
 <details><summary><b><a href="https://github.com/pocketpy/pocketpy">pocketpy</a></b> (🥈25 ·  ⭐ 2.1K) - Portable Python 3.x Interpreter in Modern C for Game Scripting. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pocketpy/pocketpy) (👨‍💻 60 · 🔀 220 · 📥 12K · 📦 2 · 📋 280 - 3% open · ⏱️ 12.10.2026):
+- [GitHub](https://github.com/pocketpy/pocketpy) (👨‍💻 60 · 🔀 230 · 📥 12K · 📦 2 · 📋 280 - 3% open · ⏱️ 12.10.2026):
 
 	```
 	git clone https://github.com/pocketpy/pocketpy
@@ -243,7 +243,7 @@ _Alternative Python interpreters and runtimes written in languages other than C.
 </details>
 <details><summary><b><a href="https://github.com/facebook/starlark-rust">starlark-rust</a></b> (🥉22 ·  ⭐ 1K) - A Rust implementation of the Starlark language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/facebook/starlark-rust) (👨‍💻 140 · 🔀 110 · 📋 110 - 24% open · ⏱️ 15.10.2026):
+- [GitHub](https://github.com/facebook/starlark-rust) (👨‍💻 140 · 🔀 110 · 📋 110 - 24% open · ⏱️ 21.10.2026):
 
 	```
 	git clone https://github.com/facebook/starlark-rust
@@ -257,20 +257,20 @@ _Alternative Python interpreters and runtimes written in languages other than C.
 	git clone https://github.com/erg-lang/erg
 	```
 </details>
+<details><summary><b><a href="https://github.com/google/starlark-go">starlark-go</a></b> (🥉20 ·  ⭐ 2.8K · 📈) - Starlark in Go: the Starlark configuration language,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://go.dev" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/google/starlark-go) (👨‍💻 89 · 🔀 250 · 📦 3 · 📋 250 - 20% open · ⏱️ 21.10.2026):
+
+	```
+	git clone https://github.com/google/starlark-go
+	```
+</details>
 <details><summary><b><a href="https://github.com/go-python/gpython">gpython</a></b> (🥉20 ·  ⭐ 1K · 💤) - gpython is a python interpreter written in go batteries not.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://go.dev" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/go-python/gpython) (👨‍💻 24 · 🔀 110 · 📥 1.3K · 📦 260 · 📋 110 - 45% open · ⏱️ 02.03.2026):
 
 	```
 	git clone https://github.com/go-python/gpython
-	```
-</details>
-<details><summary><b><a href="https://github.com/google/starlark-go">starlark-go</a></b> (🥉19 ·  ⭐ 2.8K) - Starlark in Go: the Starlark configuration language,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://go.dev" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/google/starlark-go) (👨‍💻 87 · 🔀 250 · 📦 3 · 📋 250 - 20% open · ⏱️ 12.10.2026):
-
-	```
-	git clone https://github.com/google/starlark-go
 	```
 </details>
 <details><summary><b><a href="https://github.com/rocky/x-python">x-python</a></b> (🥉14 ·  ⭐ 100 · 💤) - A Python implementation of the C Python Interpreter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
@@ -288,10 +288,10 @@ _Alternative Python interpreters and runtimes written in languages other than C.
 <details><summary>Show 10 hidden projects...</summary>
 
 - <b><a href="https://github.com/oracle/graalpython">graalpython</a></b> (🥈27 ·  ⭐ 1.7K) - GraalPy A high-performance embeddable Python 3 runtime.. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.java.com" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/jython/jython">jython</a></b> (🥈25 ·  ⭐ 1.5K) - Python for the Java Platform. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.java.com" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/jython/jython">jython</a></b> (🥈26 ·  ⭐ 1.5K · 📈) - Python for the Java Platform. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.java.com" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/skulpt/skulpt">skulpt</a></b> (🥉22 ·  ⭐ 3.4K) - Skulpt is a Javascript implementation of the Python.. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://developer.mozilla.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/pypy/pypy">pypy</a></b> (🥉22 ·  ⭐ 1.8K) - PyPy is a very fast and compliant implementation of the Python.. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/dylan-sutton-chavez/edge-python">edge-python</a></b> (🥉18 ·  ⭐ 270 · 📈) - Single-pass SSA compiler and tiered register VM for a.. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/dylan-sutton-chavez/edge-python">edge-python</a></b> (🥉18 ·  ⭐ 270) - Single-pass SSA compiler and tiered register VM for a.. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/beeware/batavia">batavia</a></b> (🥉16 ·  ⭐ 1.4K · 💀) - A JavaScript implementation of the Python virtual.. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://developer.mozilla.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/metawilm/cl-python">cl-python</a></b> (🥉11 ·  ⭐ 400 · 💀) - An implementation of Python in Common Lisp. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/LiarPrincess/Violet">violet</a></b> (🥉11 ·  ⭐ 200 · 💀) - Python VM written in Swift. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.swift.org" style="display:inline;" width="13" height="13"></code>
@@ -308,7 +308,7 @@ _Tools that compile Python to native code, executables, extension modules, or lo
 
 <details><summary><b><a href="https://github.com/Nuitka/Nuitka">nuitka</a></b> (🥇31 ·  ⭐ 15K) - Nuitka is a Python compiler written in Python. Its fully.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 220 · 🔀 780 · 📦 4.1K · 📋 2.9K - 5% open · ⏱️ 14.10.2026):
+- [GitHub](https://github.com/Nuitka/Nuitka) (👨‍💻 220 · 🔀 780 · 📦 4.2K · 📋 2.9K - 5% open · ⏱️ 14.10.2026):
 
 	```
 	git clone https://github.com/Nuitka/Nuitka
@@ -316,7 +316,7 @@ _Tools that compile Python to native code, executables, extension modules, or lo
 </details>
 <details><summary><b><a href="https://github.com/exaloop/codon">codon</a></b> (🥈26 ·  ⭐ 17K) - A high-performance, zero-overhead, extensible Python compiler with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://isocpp.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/exaloop/codon) (👨‍💻 22 · 🔀 600 · 📥 69K · 📋 550 - 17% open · ⏱️ 14.10.2026):
+- [GitHub](https://github.com/exaloop/codon) (👨‍💻 23 · 🔀 600 · 📥 70K · 📋 550 - 17% open · ⏱️ 17.10.2026):
 
 	```
 	git clone https://github.com/exaloop/codon
@@ -337,9 +337,17 @@ _Tools that compile Python to native code, executables, extension modules, or lo
 
 _Tools that translate Python source code into other high-level languages like C, C++, C#, Go, or JavaScript._
 
-<details><summary><b><a href="https://github.com/pyccel/pyccel">pyccel</a></b> (🥇23 ·  ⭐ 400) - Python extension language using accelerators. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/py2many/py2many">py2many</a></b> (🥇23 ·  ⭐ 1.3K · 📈) - Transpiler of Python to many other languages. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pyccel/pyccel) (👨‍💻 53 · 🔀 62 · 📦 37 · 📋 1.1K - 15% open · ⏱️ 03.08.2026):
+- [GitHub](https://github.com/py2many/py2many) (👨‍💻 21 · 🔀 88 · 📦 36 · 📋 310 - 37% open · ⏱️ 22.10.2026):
+
+	```
+	git clone https://github.com/py2many/py2many
+	```
+</details>
+<details><summary><b><a href="https://github.com/pyccel/pyccel">pyccel</a></b> (🥈22 ·  ⭐ 400 · 📉) - Python extension language using accelerators. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/pyccel/pyccel) (👨‍💻 53 · 🔀 61 · 📦 38 · 📋 1.1K - 15% open · ⏱️ 03.08.2026):
 
 	```
 	git clone https://github.com/pyccel/pyccel
@@ -347,14 +355,6 @@ _Tools that translate Python source code into other high-level languages like C,
 - [PyPi](https://pypi.org/project/pyccel) (📥 7K / month):
 	```
 	pip install pyccel
-	```
-</details>
-<details><summary><b><a href="https://github.com/py2many/py2many">py2many</a></b> (🥈21 ·  ⭐ 1.3K) - Transpiler of Python to many other languages. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/py2many/py2many) (👨‍💻 20 · 🔀 87 · 📦 36 · 📋 310 - 38% open · ⏱️ 07.10.2026):
-
-	```
-	git clone https://github.com/py2many/py2many
 	```
 </details>
 <details><summary><b><a href="https://github.com/nottheswimmer/pytago">pytago</a></b> (🥈14 ·  ⭐ 400 · 💤) - A source-to-source transpiler for Python to Go translation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code></summary>
@@ -377,7 +377,7 @@ _Tools that translate Python source code into other high-level languages like C,
 - <b><a href="https://github.com/lukasmartinelli/py14">py14</a></b> (🥉9 ·  ⭐ 580 · 💀) - Python to C++ 14 transpiler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/yaneurao/Pytra">pytra</a></b> (🥉9 ·  ⭐ 300) - Ultimate transpiler: converts Python to C++, Rust, C#, PowerShell,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/pseudo-lang/pseudo-python">pseudo-python</a></b> (🥉9 ·  ⭐ 120 · 💀) - a restricted python to javascript / c# / go / ruby compiler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/VideoCarp/python-lua">python-lua</a></b> (🥉5 ·  ⭐ 24 · 💀) - Compile Python to Lua automatically. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/VideoCarp/python-lua">python-lua</a></b> (🥉5 ·  ⭐ 25 · 💀) - Compile Python to Lua automatically. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/alexander-jackson/ptc">ptc</a></b> (🥉5 ·  ⭐ 7 · 💀) - A Python to C Compiler in Rust. <code>❗Unlicensed</code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.rust-lang.org" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/harishtpj/PyCer">pycer</a></b> (🥉3 ·  ⭐ 19 · 💀) - A simple Python to C transpiler. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.google.com/s2/favicons?sz=64&domain=https://www.python.org" style="display:inline;" width="13" height="13"></code>
 </details>
